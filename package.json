@@ -25,8 +25,8 @@
   },
   "private": true,
   "devDependencies": {
-    "@builder.io/qwik": "latest",
-    "@builder.io/qwik-city": "latest",
+    "@builder.io/qwik": "^0.16.2",
+    "@builder.io/qwik-city": "^0.1.0-beta9",
     "@edgio/cli": "^6.0.7-next-1673587785-8604cf7.0",
     "@edgio/core": "^6.0.7-next-1673587785-8604cf7.0",
     "@edgio/devtools": "^6.0.7-next-1673587785-8604cf7.0",
